@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidViewModelPHS</string>
+    <string name="textview">TextView</string>
+    <string name="button_add">+1</string>
+    <string name="button_dowm">-1</string>
+    <string name="key_data">key_data</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LiveDataTest</string>
+    <string name="text">welcome</string>
+    <string name="imageButtonDescription">ImageDescription</string>
+    <drawable name="up">@drawable/ic_thumb_up_black_24dp</drawable>
+    <drawable name="down">@drawable/ic_thumb_down_black_24dp</drawable>
+</resources>
